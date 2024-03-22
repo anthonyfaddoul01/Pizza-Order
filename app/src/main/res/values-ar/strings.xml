@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">كل ما تحتاجه هو البيتزا!</string>
+    <string name="open_nav">فتح درج التنقل</string>
+    <string name="close_nav">إغلاق درج التنقل</string>
+    <string name="hello_blank_fragment">مرحبًا بك في الفراغ الفارغ</string>
+    <string name="introButton">انقر للطلب</string>
+    <string name="welcome_message">كل ما تحتاجه هو البيتزا!</string>
+    <string name="introText">مرحبًا بك في توصيل البيتزا</string>
+    <string name="enter_customer_name">أدخل اسمك</string>
+    <string name="enter_customer_location">أدخل موقعك</string>
+    <string name="show_toppings">عرض الحشوات</string>
+    <string name="hide_toppings">إخفاء الحشوات</string>
+    <string name="small_size">صغير</string>
+    <string name="medium_size">متوسط</string>
+    <string name="large_size">كبير</string>
+    <string name="topping_cheese">إضافة</string>
+    <string name="confirm_order">تأكيد الطلب</string>
+    <string name="order">المتابعة للطلب</string>
+    <string name="removeitems">إزالة العناصر المحددة</string>
+    <string name="checkout">المتابعة للدفع</string>
+    <string-array name="toppings_array">
+        <item>جبن إضافي 2$</item>
+        <item>فطر 2$</item>
+        <item>فلفل أخضر 0.5$</item>
+        <item>بصل 0.5$</item>
+        <item>بيبروني 2$</item>
+        <item>دجاج 2$</item>
+        <item>سجق 2$</item>
+        <item>لحم الخنزير المدخن 2$</item>
+        <item>زيتون 0.5$</item>
+    </string-array>
+    <string-array name="pizza_options">
+        <item>حدد نوع البيتزا الخاص بك</item>
+        <item name="margherita">بيتزا مارغريتا</item>
+        <item name="pepperoni">بيتزا الببروني</item>
+        <item name="veggie">بيتزا الخضار</item>
+        <item name="bbq">بيتزا الدجاج بالباربيكيو</item>
+        <item name="fourCheese">بيتزا الأربع أنواع من الجبن</item>
+    </string-array>
+</resources>

@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">All You Need Is Pizza!</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="introButton">Click to Order</string>
+    <string name="welcome_message">All You Need Is Pizza!</string>
+    <string name="introText">Welcome to Pizza Delivery</string>
+    <string name="enter_customer_name">Enter Your Name</string>
+    <string name="enter_customer_location">Enter Your Location</string>
+    <string name="show_toppings">Show Toppings</string>
+    <string name="hide_toppings">Hide Toppings</string>
+    <string name="small_size">Small</string>
+    <string name="medium_size">Medium</string>
+    <string name="large_size">Large</string>
+    <string name="topping_cheese">Extra</string>
+    <string name="confirm_order">Place Order</string>
+    <string name="order">Proceed to Order</string>
+    <string name="removeitems">Remove Selected Items</string>
+    <string name="checkout">Proceed to Checkout</string>
+    <string-array name="toppings_array">
+        <item>Extra Cheese 2$</item>
+        <item>Mushrooms 2$</item>
+        <item>Green Peppers 0.5$</item>
+        <item>Onions 0.5$</item>
+        <item>Pepperoni 2$</item>
+        <item>Chicken 2$</item>
+        <item>Sausages 2$</item>
+        <item>Bacon 2$</item>
+        <item>Olives 0.5$</item>
+    </string-array>
+    <string-array name="pizza_options">
+        <item>Select your Pizza</item>
+        <item name="margherita">Margherita Pizza</item>
+        <item name="pepperoni">Pepperoni Pizza</item>
+        <item name="veggie">Veggie Pizza</item>
+        <item name="bbq">BQQ Chicken Pizza</item>
+        <item name="fourCheese">Four Cheese Pizza</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
